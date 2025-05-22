@@ -23,7 +23,7 @@ I'm **Rafa**, a Frontend Developer with over **7 years of experience**, working 
 
 ## 🔭 Currently Working On
 
-### **Clin+ — Healthcare Management System**
+### **Clin+ — Healthcare Management System** 💚
 
 I founded **Clin+** as a **bootstrapped open-source project**, where we're building a management system for clinics and hospitals in Brazil.
 
