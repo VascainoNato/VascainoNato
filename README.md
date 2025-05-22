@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub profile!
 
-<!--
-**VascainoNato/VascainoNato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rafa**, a Frontend Developer with over **7 years of experience**, working with technologies such as:
 
-Here are some ideas to get you started:
+- **React / Next.js**
+- **Node.js / NestJS**
+- **TypeScript / JavaScript**
+- **PostgreSQL / Prisma**
+- **TailwindCSS / Styled Components**
+- **Docker / Railway / Vercel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Recent Experiences
+
+- **CATSKILLET** — Frontend UI Developer  
+- **PROTECTA Proteção Veicular** — Frontend Lead Developer  
+- **BEHIVE VENTURES (Chicago-based)** — Frontend Lead Developer  
+- **Touchway** — Frontend Lead Developer  
+- **Clin+ (Founder)** — Healthcare Management System  
+
+---
+
+## 🔭 Currently Working On
+
+### **Clin+ — Healthcare Management System**
+
+I founded **Clin+** as a **bootstrapped open-source project**, where we're building a management system for clinics and hospitals in Brazil.
+
+Our main differentiators, besides solving the usual problems of current market players (like responsiveness, security, customization, usability, and a short learning curve), include a **native payment split feature**, developed in partnership with **Woovi**, a leading instant payment startup in Brazil.
+
+This custom split system prevents **double taxation** on payments for treatments processed through our platform. It enables automated, tax-optimized payouts directly to professionals, saving up to **20% in payment processing costs** for clinics, offices, and hospitals.
+
+The project is currently being tested by several local clinics and receives weekly updates shared on our social media: **[@clinmais]**.
+
+---
+
+## 🎯 Fun Fact
+
+My nickname "**VascaínoNato**" comes from my lifelong support for the football club **Vasco da Gama FC**. ⚽
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out — I'm always open to collaborate, contribute, or help with any interesting project.
+
+**Thank you for visiting my profile! 🚀**
