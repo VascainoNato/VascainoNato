@@ -17,7 +17,7 @@ I'm **Rafa**, a Frontend Developer with over **7 years of experience**, working 
 - **PROTECTA Vehicle Protection** — Frontend Lead Developer  
 - **BEHIVE VENTURES (International Project - company Chicago-based)** — Frontend Lead Developer  
 - **Touchway** — Frontend Lead Developer  
-- **Clin+ (Founder)** — Healthcare Management System  
+- **Clin+ - Healthcare Management System** — Founder
 
 ---
 
