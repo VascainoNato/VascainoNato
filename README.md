@@ -14,8 +14,8 @@ I'm **Rafa**, a Frontend Developer with over **7 years of experience**, working 
 ## 🚀 Recent Experiences
 
 - **CATSKILLET** — Frontend UI Developer  
-- **PROTECTA Proteção Veicular** — Frontend Lead Developer  
-- **BEHIVE VENTURES (Chicago-based)** — Frontend Lead Developer  
+- **PROTECTA Vehicle Protection** — Frontend Lead Developer  
+- **BEHIVE VENTURES (International Project - company Chicago-based)** — Frontend Lead Developer  
 - **Touchway** — Frontend Lead Developer  
 - **Clin+ (Founder)** — Healthcare Management System  
 
@@ -31,13 +31,15 @@ Our main differentiators, besides solving the usual problems of current market p
 
 This custom split system prevents **double taxation** on payments for treatments processed through our platform. It enables automated, tax-optimized payouts directly to professionals, saving up to **20% in payment processing costs** for clinics, offices, and hospitals.
 
-The project is currently being tested by several local clinics and receives weekly updates shared on our social media: **[@clinmais]**.
+The project is currently being tested by several local clinics and receives weekly updates shared on our social media: **@clinmais**.
+
+**www.clinmais.com.br** ONLY PT-BR.
 
 ---
 
 ## 🎯 Fun Fact
 
-My nickname "**VascaínoNato**" comes from my lifelong support for the football club **Vasco da Gama FC**. ⚽
+My nickname "**VascaínoNato**" comes from my lifelong support for the football club **Vasco da Gama FC**. 💢⚽
 
 ---
 
