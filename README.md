@@ -14,9 +14,9 @@ I'm **Rafa**, a Frontend Developer with over **7 years of experience**, working 
 ## 🚀 Recent Experiences
 
 - **CATSKILLET** — Frontend UI Developer  
-- **PROTECTA Vehicle Protection** — Frontend Lead Developer  
-- **BEHIVE VENTURES (International Project - company Chicago-based)** — Frontend Lead Developer  
-- **Touchway** — Frontend Lead Developer  
+- **PROTECTA Vehicle Protection** — Full Stack Engineer / SRE Engineer
+- **BEHIVE VENTURES (International Project - company Chicago-based)** — Full Stack Lead Engineer
+- **Touchway** — Full Stack Lead Engineer
 - **Clin+ - Healthcare Management System** — Founder
 
 ---
