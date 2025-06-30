@@ -1,14 +1,14 @@
 # 👋 Welcome to my GitHub profile!
 
-I'm **Rafa**, a Frontend Developer with over **7 years of experience**, working with technologies such as:
+I'm **Rafa**, a Software Engineer | SRE Engineer with almost **8 years of experience**, working with technologies such as:
 
 - **React / Next.js**
 - **Node.js / NestJS**
 - **TypeScript / JavaScript**
 - **PostgreSQL / Prisma**
 - **TailwindCSS / Styled Components**
-- **Docker / Railway / Vercel**
-
+- **Docker / Railway / Vercel / Kubernetes / Lighthouse**
+  
 ---
 
 ## 🚀 Recent Experiences
