@@ -1,13 +1,15 @@
 # 👋 Welcome to my GitHub profile!
 
-I'm **Rafa**, a Software Engineer | SRE Engineer with almost **8 years of experience**, working with technologies such as:
+I'm **Rafa**, a Senior Software Engineer | Product Engineer with almost **8 years of experience**, working with technologies such as:
 
-- **React / Next.js**
-- **Node.js / NestJS**
-- **TypeScript / JavaScript**
-- **PostgreSQL / Prisma**
+- **React / Next.js / React Native**
+- **Node.js / NestJS / Python**
+- **TypeScript / JavaScript / GraphQL**
+- **ContextAPI / Redux / ReduxSaga / Zustand**
+- **Redis / SWR**
+- **PostgreSQL / Prisma / MySQL / MongoDB**
 - **TailwindCSS / Styled Components**
-- **Docker / Railway / Vercel / Kubernetes / Lighthouse**
+- **AWS /Docker / Railway / Vercel / Kubernetes / Lighthouse**
   
 ---
 
