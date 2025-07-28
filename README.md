@@ -15,8 +15,8 @@ I'm **Rafa**, a Senior Software Engineer | Product Engineer with almost **8 year
 
 ## 🚀 Recent Experiences
 
-- **CATSKILLET** — Frontend UI Developer  
-- **PROTECTA Vehicle Protection** — Full Stack Engineer / SRE Engineer
+- **CATSKILLET** — Frontend Product Engineer
+- **PROTECTA Vehicle Protection** — Full Stack Engineer / Product Engineer
 - **BEHIVE VENTURES (International Project - company Chicago-based)** — Full Stack Lead Engineer
 - **Touchway** — Full Stack Lead Engineer
 - **Clin+ - Healthcare Management System** — Founder
