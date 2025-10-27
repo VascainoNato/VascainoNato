@@ -15,11 +15,11 @@ I'm **Rafa**, a Senior Software Engineer | Product Engineer with over **8 years 
 
 ## 🚀 Recent Experiences
 
-- **CATSKILLET** — Frontend Product Engineer
-- **PROTECTA Vehicle Protection** — Full Stack Engineer / Product Engineer
-- **BEHIVE VENTURES (International Project - company Chicago-based)** — Full Stack Lead Engineer / Product Engineer
-- **Touchway** — Full Stack Lead Engineer / Product Engineer
-- **Clin+ - Healthcare Management System** — Founder
+- **CATSKILLET** — Frontend Developer
+- **PROTECTA Vehicle Protection** — Senior Frontend Developer
+- **BEHIVE VENTURES (International Project - company Chicago-based)** — Senior Frontend Developer
+- **Touchway** — Senior Frontend Developer
+- **Clin+ - Healthcare Management System** — Senior Fullstack Developer / Founder
 
 ---
 
@@ -31,11 +31,11 @@ I founded **Clin+** as a **bootstrapped open-source project**, where we're build
 
 Our main differentiators, besides solving the usual problems of current market players (like responsiveness, security, customization, usability, and a short learning curve), include a **native payment split feature that we are currently developing** in partnership with **@woovibr**, a leading instant payment startup in Brazil.
 
-This custom split is being designed to prevent **double taxation** on payments for treatments processed through our platform. Once implemented, it will enable automated, tax-optimized payouts directly to professionals, saving up to **20% in payment processing costs** for clinics, offices, and hospitals.
+This platform operates directly in the management of clinics and hospitals, providing a secure platform for electronic medical records, patient management, schedules, documents, medical prescriptions, certificates, and remote care.
 
 The project is currently being tested by several local clinics and receives weekly updates shared on our social media: **@clinmais**.
 
-**www.clinmais.com.br** ONLY PT-BR.
+**www.clinmais.com.br** ONLY PT-BR, soon EN/PT.
 
 ---
 
