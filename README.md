@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-I'm **Rafa**, a Senior Software Engineer | Product Engineer with **8 years of experience**, working with technologies such as:
+I'm **Rafa**, a Senior Software Engineer | Product Engineer with over **8 years of experience**, working with technologies such as:
 
 - **React / Next.js / React Native**
 - **Node.js / NestJS / Python**
