@@ -29,7 +29,7 @@ I'm **Rafa**, a Senior Frontend Developer | Senior Fullstack Developer with over
 
 I founded **Clin+** as a **bootstrapped open-source project**, where we're building a management system for clinics and hospitals in Brazil.
 
-Our main differentiators, besides solving the usual problems of current market players (like responsiveness, security, customization, usability, and a short learning curve), include a **native payment split feature that we are currently developing** in partnership with **@woovibr**, a leading instant payment startup in Brazil.
+Our main differentiators, besides solving the usual problems of current market players (like responsiveness, security, customization, usability, and a short learning curve).
 
 This platform operates directly in the management of clinics and hospitals, providing a secure platform for electronic medical records, patient management, schedules, documents, medical prescriptions, certificates, and remote care.
 
