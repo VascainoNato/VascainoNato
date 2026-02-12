@@ -5,11 +5,12 @@ I'm **Rafa**, a **Senior Frontend Developer | Senior Fullstack Developer** with 
 - **React / Next.js / React Native Expo**
 - **Node.js / NestJS / Python**
 - **TypeScript / JavaScript / GraphQL**
+- **API REST / TCPIP / WebSocket**
 - **ContextAPI / Redux / ReduxSaga / Zustand**
 - **Redis / SWR**
-- **PostgreSQL / Prisma / MySQL / MongoDB**
+- **PostgreSQL / Prisma / MySQL / MongoDB / Supabase**
 - **TailwindCSS / Styled Components**
-- **AWS / Docker / Railway / Vercel / Kubernetes / Lighthouse / Terraform / Sequelize**
+- **AWS / Docker / Railway / Vercel / CloudFlare / Kubernetes / Lighthouse / Terraform / Sequelize**
 
 ---
 
