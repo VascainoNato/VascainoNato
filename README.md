@@ -52,7 +52,7 @@ The platform now includes:
 - Cloud storage and scalable infrastructure
 
 🌐 **Website:** https://www.clinmais.com.br  
-📱 Updates and product evolution: **@clinmais**  
+📱 Instagram: **@crmclinmais**  
 🌍 Currently **PT-BR only** → EN/PT versions coming soon  
 
 ---
