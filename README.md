@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-I'm **Rafa**, a **Senior Frontend Developer | Senior Fullstack Developer** with over **8 years of experience**, working with technologies such as:
+I'm **Rafa**, a **Senior Frontend Developer | Senior Fullstack Developer** with over **9 years of experience**, working with technologies such as:
 
 - **React / Next.js / React Native Expo**
 - **Node.js / NestJS / Python**
