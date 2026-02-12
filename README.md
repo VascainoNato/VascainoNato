@@ -16,10 +16,10 @@ I'm **Rafa**, a **Senior Frontend Developer | Senior Fullstack Developer** with 
 
 # 🚀 Recent Experiences
 
-- **CATSKILLET** — Frontend & Fullstack Developer  
+- **CATSKILLET** — Fullstack Developer  
 - **PROTECTA Vehicle Protection** — Senior Frontend Developer  
-- **BEHIVE VENTURES** *(International Project - Chicago-based)* — Senior Fullstack Developer
-- **Touchway** *(International Project - Chicago-based)* — Senior Fullstack Developer  
+- **BEHIVE VENTURES** *(International Project - Chicago-based)* — Senior Frontend Developer
+- **Touchway** *(International Project - Chicago-based)* — Senior Frontend Developer  
 - **Clin+ — Healthcare Management System** — Founding Engineer  
 
 ---
